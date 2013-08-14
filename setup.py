@@ -4,7 +4,7 @@ from django_sane_reverse import __version__
 
 setup(
     name='django_sane_reverse',
-    version=__version__,
+    version=1.0,
     author='Raphael Kimmig',
     author_email='raphael.kimmig@ampad.de',
     url = 'https://github.com/RaphaelKimmig/django_sane_reverse',

@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 from distutils.core import setup
-from django_sane_reverse import __version__
 
 setup(
     name='django_sane_reverse',
